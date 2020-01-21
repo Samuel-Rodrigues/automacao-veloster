@@ -1,0 +1,4 @@
+ArduinoNano KEYWORD1
+
+LigaPino KEYWORD2
+DesligaPino KEYWORD2

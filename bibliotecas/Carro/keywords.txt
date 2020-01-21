@@ -1,0 +1,14 @@
+Carro KEYWORD1
+
+ACCLiga KEYWORD2
+ACCDesliga KEYWORD2
+LigaFarois KEYWORD2
+DesligaFarois KEYWORD2
+LigaRetrovisores KEYWORD2
+DesligaRetrovisores KEYWORD2
+LigaArcondicionado KEYWORD2
+DesligaArcondicionado KEYWORD2
+GetNome KEYWORD2
+GetEstadoACC KEYWORD2
+GetEstadoFarois KEYWORD2
+GetEstadoRetrovisores KEYWORD2
